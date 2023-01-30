@@ -8,3 +8,4 @@
 + exercício 5 - hierarquia de títulos
 + exercício 7 e 8 - formatação de textos
 + exercício 9 - listas
++ exercício 10 - links
