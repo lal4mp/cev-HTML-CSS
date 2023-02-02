@@ -12,3 +12,4 @@
 
 #### Desafios
 + desafio 5 - perfil social
++ desafio 6 - tags 
