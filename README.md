@@ -9,6 +9,7 @@
 + exercício 7 e 8 - formatação de textos
 + exercício 9 - listas
 + exercício 10 - links
++ exercício 11 - imagens dinâmicas, áudios
 
 #### Desafios
 + desafio 5 - perfil social
