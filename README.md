@@ -12,5 +12,9 @@
 + exercício 11 - imagens dinâmicas, áudios
 
 #### Desafios
++ desafio 1 - parágrafo e quebra de linha
++ desafio 2 - imagens
++ desafio 3 - mapa mundi
++ desafio 4 - listinha de emojis
 + desafio 5 - perfil social
 + desafio 6 - tags 
