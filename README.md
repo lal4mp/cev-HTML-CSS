@@ -10,6 +10,7 @@
 + exercício 9 - listas
 + exercício 10 - links
 + exercício 11 - imagens dinâmicas, áudios
++ exercício 12 - vídeos
 
 #### Desafios
 + desafio 1 - parágrafo e quebra de linha
@@ -17,4 +18,5 @@
 + desafio 3 - mapa mundi
 + desafio 4 - listinha de emojis
 + desafio 5 - perfil social
-+ desafio 6 - tags 
++ desafio 6 - tags
++ desafio 9 - recomendação de vídeos
