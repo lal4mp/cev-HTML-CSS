@@ -2,7 +2,7 @@
 
 ### Módulo 1
 HTML
-+ exercício 1 - primeiro código HTML [ex001](ex001)
++ exercício 1 - primeiro código HTML [ex001](módulo 1/ex001)
 + exercício 2 - parágrafos, quebras de linha, símbolos e emojis
 + exercício 3 - imagens 
 + exercício 4 - ícones e favicon
