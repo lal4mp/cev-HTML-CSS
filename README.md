@@ -15,6 +15,7 @@ HTML
 
 CSS
 + exercício 13 - estilos inline
++ exercício 14 - estilos locais/internos
 
 #### Desafios
 + desafio 1 - parágrafo e quebra de linha
