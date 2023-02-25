@@ -2,7 +2,7 @@
 
 ### Módulo 1
 HTML
-+ exercício 1 - primeiro código HTML [ex001](módulo 1/ex001)
++ [exercício 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/ex001) - primeiro código HTML 
 + exercício 2 - parágrafos, quebras de linha, símbolos e emojis
 + exercício 3 - imagens 
 + exercício 4 - ícones e favicon
