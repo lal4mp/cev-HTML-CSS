@@ -1,6 +1,7 @@
 # Curso de HTML e CSS
 
 ### Módulo 1
+HTML
 + exercício 1 - primeiro código HTML
 + exercício 2 - parágrafos, quebras de linha, símbolos e emojis
 + exercício 3 - imagens 
@@ -11,6 +12,9 @@
 + exercício 10 - links
 + exercício 11 - imagens dinâmicas, áudios
 + exercício 12 - vídeos
+
+CSS
++ exercício 13 - estilos inline
 
 #### Desafios
 + desafio 1 - parágrafo e quebra de linha
