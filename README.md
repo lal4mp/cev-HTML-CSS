@@ -25,5 +25,5 @@ CSS
 + desafio 5 - perfil social
 + desafio 6 - tags
 + desafio 7 - imagem flexível
-+ desafio 8 - navegação
++ desafio 8 - navegação (páginas coloridas)
 + desafio 9 - recomendação de vídeos
