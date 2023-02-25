@@ -24,4 +24,6 @@ CSS
 + desafio 4 - listinha de emojis
 + desafio 5 - perfil social
 + desafio 6 - tags
++ desafio 7 - imagem flexível
++ desafio 8 - navegação
 + desafio 9 - recomendação de vídeos
