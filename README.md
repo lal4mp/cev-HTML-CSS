@@ -29,3 +29,7 @@ CSS
 + [desafio 7](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d07) - imagem flexível
 + [desafio 8](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d08) - navegação (páginas coloridas)
 + [desafio 9](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d09) - recomendação de vídeos
+
+### Módulo 2
+CSS
++ [cor 1]() - cores no CSS
