@@ -32,5 +32,4 @@ CSS
 
 ### Módulo 2
 CSS
-+ [cor 1]() - cores no CSS
-+ [exercício 16]() - gradientes no CSS
++ [exercício 16]() - cores no CSS
