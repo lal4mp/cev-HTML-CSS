@@ -33,5 +33,5 @@ CSS
 ### Módulo 2
 CSS
 + [exercício 16]() - cores no CSS
-+ [exercício 17]() - fontes no CSS
-+ [exercício 18]() - fontes no CSS
++ [exercício 17]() - fontes e alinhamento(02) no CSS
++ [exercício 18]() - fontes do google(01) e fontes externas(02) no CSS
