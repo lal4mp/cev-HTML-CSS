@@ -33,3 +33,5 @@ CSS
 ### Módulo 2
 CSS
 + [exercício 16]() - cores no CSS
++ [exercício 17]() - fontes no CSS
++ [exercício 18]() - fontes no CSS
