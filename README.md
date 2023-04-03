@@ -35,3 +35,5 @@ CSS
 + [exercício 16]() - cores no CSS
 + [exercício 17]() - fontes e alinhamento(02) no CSS
 + [exercício 18]() - fontes do google(01) e fontes externas(02) no CSS
++ [exercício 19]() - seletores no CSS
++ [exercício 20]() - div, pseudo-classes e pseudo-elementos no CSS
