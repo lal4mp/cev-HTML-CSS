@@ -37,3 +37,4 @@ CSS
 + [exercício 18]() - fontes do google(01) e fontes externas(02) no CSS
 + [exercício 19]() - seletores no CSS
 + [exercício 20]() - div, pseudo-classes e pseudo-elementos no CSS
++ [exercício 21]() - modelo de caixas no CSS
