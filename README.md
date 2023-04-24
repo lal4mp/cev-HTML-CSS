@@ -45,4 +45,4 @@ CSS
 + [exercício 21 - caixa03](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex021/caixa03.html) - bordas personalizadas no CSS
 
 #### Desafios
-+ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10) - criando um site (android)
++ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
