@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+            /*
+            Medidas absolutas: cm, mm, in(polegada), px, pt(ponto), pc(paica)
+
+            Medidas relativas: em (altura do M), ex (altura do x), rem, vw, vh, %
+
+            16px = 1em (medidas mais utilizadas)
+            */
+            font-size: 16px;
+
+            /* 
+            lighter, normal, bold, bolder
+            100 a 900
+            */
+            font-weight: normal;
+
+            font-style: normal;
+            text-decoration: none;
+        }
+
+        h1 {
+            /*
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;
+
+            shorthand font: font-style + font-weight + font-size + font-family
+            */
+            font: italic bolder 3em Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+
+        h2 {
+            font: bold 2em Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com Fontes</h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla quia neque, ea temporibus vitae fuga veritatis culpa, repellendus, aperiam at ad vel. Corporis neque facilis doloribus, odio repellendus odit qui!</p>
+    <h2>Subtítulo</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut incidunt et est, quaerat unde maxime quod tempora provident consectetur illum laborum enim beatae, ea deserunt perferendis perspiciatis id neque laudantium.</p>
+</body>
+</html>

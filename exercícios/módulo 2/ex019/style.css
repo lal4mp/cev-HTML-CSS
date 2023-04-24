@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(151, 199, 243);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    color: rgb(68, 47, 96);
+}
+
+h1#principal{
+    background-color: rgb(41, 27, 59);
+    text-align: center;
+    color: wheat;
+}
+
+h2{
+    color: rgb(87, 28, 164);
+    font-weight: bold;
+}
+
+.basico{
+    color: rgb(26, 172, 26);
+}
+
+.intermediario{
+    color: yellow;
+}
+
+.avançado{
+    color: red;
+}
+
+.destaque{
+    font-style: italic;
+    text-decoration: underline;
+}

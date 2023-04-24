@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+#espaco{
+    display: block;
+    width: 1510px;
+    height: 728px;
+}
+
+#astronauta{
+    display: block;
+    position: absolute;
+    top: 100px;
+    left: 505px;
+}

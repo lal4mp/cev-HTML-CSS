@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Passion";
+    src: url("fontes/PassionOne-Regular.ttf") format('truetype'), url("fontes/PassionOne-Black.ttf") format('truetype'), url("fontes/PassionOne-Bold.ttf") format('truetype');
+}
+
+@font-face{
+    font-family: "Sriracha";
+    src: url("fontes/Sriracha-Regular.ttf") format('truetype');
+}
+
+body{
+    margin: auto;
+    font-family: 'Sriracha';
+    font-size: large;
+}
+
+header{
+    font-family: 'Passion';
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+}
+
+header> h1{
+    margin-bottom: 0px;
+}
+header > h2{
+    margin-top: 0px;
+    font-size: small;
+}
+
+img{
+    display: block;
+    margin: auto;
+    position: relative;
+    width: 1500px;
+    height: 728px;
+}
+
+div{
+    text-align: justify;
+    position: absolute;
+}
