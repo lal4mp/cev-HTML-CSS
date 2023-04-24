@@ -20,9 +20,9 @@ CSS
 + [exercício 15](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/ex015) - estilos externos
 
 #### Desafios
-+ [desafio 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d01) - parágrafo e quebra de linha
-+ [desafio 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d02) - imagens
-+ [desafio 3](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d03) - mapa mundi
++ [desafio 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%201/desafios/d01) - parágrafo e quebra de linha
++ [desafio 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%201/desafios/d02) - imagens
++ [desafio 3](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%201/desafios/d03) - mapa mundi
 + [desafio 4](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d04) - listinha de emojis
 + [desafio 5](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d05) - perfil social
 + [desafio 6](https://github.com/lal4mp/cev-HTML-CSS/tree/main/m%C3%B3dulo%201/desafios/d06) - tags
@@ -32,7 +32,7 @@ CSS
 
 ### Módulo 2
 CSS
-+ [exercício 16]() - cores no CSS
++ [exercício 16](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex016) - cores no CSS
 + [exercício 17]() - fontes e alinhamento(02) no CSS
 + [exercício 18]() - fontes do google(01) e fontes externas(02) no CSS
 + [exercício 19]() - seletores no CSS
