@@ -1,6 +1,6 @@
 # Curso de HTML e CSS
 
-exemplo de como abrir os sites: https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
+###exemplo de como abrir os sites: https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
 
 ### Módulo 1
 HTML
