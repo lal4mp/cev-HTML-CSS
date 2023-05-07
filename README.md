@@ -51,3 +51,4 @@ CSS
 + [exercício 22 - fundo004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo004.html) - posicionamento de fundo
 + [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - posicionamento de fundo
 + [exercício 22 - fundo006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - teste de fundo
++ [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - alinhamento vertical
