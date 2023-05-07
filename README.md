@@ -1,8 +1,5 @@
 # Curso de HTML e CSS
 
-exemplo de como abrir os sites: 
-https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
-
 ### Módulo 1
 HTML
 + [exercício 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%201/ex001) - primeiro código HTML 
@@ -46,3 +43,10 @@ CSS
 
 #### Desafios
 + [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
+
+### Módulo 3
++ [exercício 22 - fundo001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - imagens de fundo
++ [exercício 22 - fundo002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - personalização de fundo
++ [exercício 22 - fundo003](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - posição de fundo
++ [exercício 22 - fundo004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo004.html) - posicionamento de fundo
++ [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - posicionamento de fundo
