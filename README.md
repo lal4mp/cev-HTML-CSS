@@ -43,6 +43,8 @@ CSS
 
 #### Desafios
 + [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
++ [desafio 11](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d11) - criando um site (android) 
+
 
 ### Módulo 3
 + [exercício 22 - fundo001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - imagens de fundo
@@ -52,3 +54,6 @@ CSS
 + [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - posicionamento de fundo
 + [exercício 22 - fundo006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - teste de fundo
 + [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - alinhamento vertical
+
+#### Desafios
++ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12/principal.html
