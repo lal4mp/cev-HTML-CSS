@@ -56,4 +56,4 @@ CSS
 + [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - alinhamento vertical
 
 #### Desafios
-+ [desafio 12]([https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d12](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12/principal.html
++ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d12](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12/principal.html
