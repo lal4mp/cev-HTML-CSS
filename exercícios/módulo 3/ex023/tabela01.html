@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas</title>
+    <style>
+        table{
+            height: 300px;
+            width: 300px;
+            border-collapse: collapse;
+            border: 2px solid black;
+        }
+        tr.purple{
+            background-color: rgb(140, 90, 179);
+        }
+        td{
+            border: 1px solid black;
+            text-align: center;
+            vertical-align: middle;
+        }
+        td.yellow{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <h1>Minha primeira tabela</h1>
+    <!-- 
+        Hierarquia de tabelas: 
+        table;
+            table row (linha) - tr;
+            table header (cabeçalho) - th;
+            table data (dados) - td;
+    -->
+    <table>
+        <tr> <!-- primeira linha -->
+            <td>A1
+            <td>B1
+            <td>C1
+
+        <tr class="purple"> <!-- segunda linha -->
+            <td>A2</td>
+            <td>B2</td>
+            <td>C2</td>
+        </tr>
+        
+        <tr> <!-- terceira linha -->
+            <td>A3</td>
+            <td>B3</td>
+            <td>C3</td>
+        </tr>
+
+        <tr> <!-- quarta linha -->
+            <td class="yellow">A4</td>
+            <td>B4</td>
+            <td>C4</td>
+        </tr>
+    </table>
+</body>
+</html>

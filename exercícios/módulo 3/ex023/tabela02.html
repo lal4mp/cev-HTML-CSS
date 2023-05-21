@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas Grandes</title>
+    <style>
+        table{
+            width: 400px;
+            border-collapse: collapse;
+            border: 3px solid black;
+            position: relative;
+        }
+        
+        caption{
+            text-align: justify;
+            font-weight: bold;
+            padding: 5px;
+        }
+
+        thead{
+            background-color: rgb(50, 50, 50);
+            color: white;
+        }
+
+        thead > tr > th{ /*head da tabela fixo*/
+            position: sticky;
+            top: -1px;
+            background-color: rgb(50, 50, 50);
+        }
+
+        tbody > tr:nth-child(even){ /*efeito zebrado (2n, odd, even)*/
+            background-color: rgb(228, 227, 227);
+        }
+        
+        td, th{
+            border: 1px solid black;
+            text-align: center;
+            padding: 5px;
+            vertical-align: middle;
+        }
+
+        td.população{
+            text-align: right;
+        }
+
+        tfoot{
+            background-color: rgb(157, 157, 157);
+        }
+        td.blank{
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uso de tabelas grandes</h1>
+    <!--
+        Anatomia para tabelas grandes:
+        table;
+            caption
+            thead (tr, td, th)
+            tbody (tr, td, th)
+            tfoot (tr, td, th)
+    -->
+    <table>
+        <caption>
+            População das Unidades Federativas do Brasil 
+        </caption>
+        <thead>
+            <tr>
+                <th scope="col" style="width: 50px;">Posição</th>
+                <th scope="col">Unidade Federativa</th>
+                <th scope="col" style="width: 85px;">População</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>São Paulo</td>
+                <td class="população">46 024 937</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Minas Gerais</td>
+                <td class="população">20 732 660</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Rio de Janeiro</td>
+                <td class="população">16 615 526</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Bahia</td>
+                <td class="população">14 659 023</td>
+            </tr>
+            <tr>
+                <td>.<br>.<br>.</td>
+                <td>.<br>.<br>.</td>
+                <td>.<br>.<br>.</td>
+            </tr>
+            <tr>
+                <td>26</td>
+                <td>Amapá</td>
+                <td class="população">774 268</td>
+            </tr>
+            <tr>
+                <td>27</td>
+                <td>Roraima</td>
+                <td class="população">634 805</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+                <td class="blank"></td>
+                <th scope="row">Total de habitantes</th>
+                <td class="população"><strong>214 300 000</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>

@@ -54,6 +54,8 @@ CSS
 + [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - posicionamento de fundo
 + [exercício 22 - fundo006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - teste de fundo
 + [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - alinhamento vertical
++ [exercício 23](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela01.html) - tabelas (hierarquia - tr, td, th)
++ [exercício 23](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela02.html) - tabelas (anatomia - caption, thead, tbody, tfoot)
 
 #### Desafios
 + [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12/principal.html
