@@ -67,8 +67,9 @@ CSS
 + [desafio 13 - table 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table2.html) - quadro de notas - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table2.html
 
 
-### Módulo 3
+### Módulo 4
 +[exercício 24 - iframe001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe001.html) - o que são iframe e algumas configurações
++[exercício 24 - iframe002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe002.html) - iframe com conteúdo local
 
 
 #### Desafios
