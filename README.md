@@ -42,37 +42,37 @@ CSS
 + [exercício 21 - caixa03](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex021/caixa03.html) - bordas personalizadas no CSS
 
 #### Desafios
-+ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
++ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo2/desafios/d10/principal.html
 + [desafio 11](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d11) - astronauta 
 
 
 ### Módulo 3
-+ [exercício 22 - fundo001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - imagens de fundo
-+ [exercício 22 - fundo002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - personalização de fundo
-+ [exercício 22 - fundo003](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo001.html) - posição de fundo
-+ [exercício 22 - fundo004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo004.html) - posicionamento de fundo
-+ [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - posicionamento de fundo
-+ [exercício 22 - fundo006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - teste de fundo
-+ [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex022/fundo005.html) - alinhamento vertical
-+ [exercício 23 - tabela01](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela01.html) - tabelas (hierarquia - tr, td, th)
-+ [exercício 23 - tabela02](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela02.html) - tabelas (anatomia - caption, thead, tbody, tfoot)
-+ [exercício 23 - tabela03](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela03.html) - mesclagem de células de tabelas
-+ [exercício 23 - tabela04](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela04.html) - row/colgroup de tabelas
-+ [exercício 23 - tabela05](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela05.html) - personalizar colunas de tabelas
-+ [exercício 23 - tabela06](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/ex023/tabela06.html) - tabelas responsivas
++ [exercício 22 - fundo001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo001.html) - imagens de fundo
++ [exercício 22 - fundo002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo002.html) - personalização de fundo
++ [exercício 22 - fundo003](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo003.html) - posição de fundo
++ [exercício 22 - fundo004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo004.html) - posicionamento de fundo
++ [exercício 22 - fundo005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo005.html) - posicionamento de fundo
++ [exercício 22 - fundo006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo006.html) - teste de fundo
++ [exercício 22 - fundo007](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex022/fundo007.html) - alinhamento vertical
++ [exercício 23 - tabela01](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela01.html) - tabelas (hierarquia - tr, td, th)
++ [exercício 23 - tabela02](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela02.html) - tabelas (anatomia - caption, thead, tbody, tfoot) 
++ [exercício 23 - tabela03](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela03.html) - mesclagem de células de tabelas
++ [exercício 23 - tabela04](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela04.html) - row/colgroup de tabelas
++ [exercício 23 - tabela05](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela05.html) - personalizar colunas de tabelas
++ [exercício 23 - tabela06](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela06.html) - tabelas responsivas
 
 #### Desafios
-+ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d12/principal.html
-+ [desafio 13 - table 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table.html) - tabelas desafio - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table.html
-+ [desafio 13 - table 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table2.html) - quadro de notas - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%203/desafios/d13/table2.html
++ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d12/principal.html
++ [desafio 13 - table 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d13/table.html) - tabelas desafio - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d13/table.html
++ [desafio 13 - table 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d13/table2.html) - quadro de notas - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d13/table2.html
 
 
 ### Módulo 4
-+ [exercício 24 - iframe001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe001.html) - o que são iframe e algumas configurações
-+ [exercício 24 - iframe002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe002.html) - iframe com conteúdo local
-+ [exercício 24 - iframe003](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe003.html) - iframe com navegação de páginas e conteúdos no iframe
-+ [exercício 24 - iframe004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe004.html) - segurança do site com iframe
-+ [exercício 24 - iframe005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe005.html) - segurança do site com iframe
-+ [exercício 24 - iframe006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%204/ex024/iframe006.html) - usos interessantes com iframe (google maps, docs, waze, vídeos...)
++ [exercício 24 - iframe001](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe001.html) - o que são iframe e algumas configurações
++ [exercício 24 - iframe002](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe002.html) - iframe com conteúdo local
++ [exercício 24 - iframe003](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe003.html) - iframe com navegação de páginas e conteúdos no iframe
++ [exercício 24 - iframe004](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe004.html) - segurança do site com iframe
++ [exercício 24 - iframe005](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe005.html) - segurança do site com iframe
++ [exercício 24 - iframe006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe006.html) - usos interessantes com iframe (google maps, docs, waze, vídeos...)
 
 #### Desafios
