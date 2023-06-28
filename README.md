@@ -32,18 +32,18 @@ CSS
 
 ### Módulo 2
 CSS
-+ [exercício 16](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex016) - cores no CSS
-+ [exercício 17](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex017) - fontes e alinhamento(02) no CSS
-+ [exercício 18](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex018) - fontes do google(01) e fontes externas(02) no CSS
-+ [exercício 19](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex019) - seletores no CSS
-+ [exercício 20](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex020) - div, pseudo-classes e pseudo-elementos no CSS
-+ [exercício 21 - caixa01](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex021/caixa01.html) - modelo de caixas no CSS
-+ [exercício 21 - caixa02](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex021/caixa02.html) - grouping tags no CSS
-+ [exercício 21 - caixa03](https://github.com/lal4mp/cev-HTML-CSS/blob/main/exerc%C3%ADcios/m%C3%B3dulo%202/ex021/caixa03.html) - bordas personalizadas no CSS
++ [exercício 16](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex016) - cores no CSS
++ [exercício 17](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex017) - fontes e alinhamento(02) no CSS
++ [exercício 18](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex018) - fontes do google(01) e fontes externas(02) no CSS
++ [exercício 19](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex019) - seletores no CSS
++ [exercício 20](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex020) - div, pseudo-classes e pseudo-elementos no CSS
++ [exercício 21 - caixa01](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex021/caixa01.html) - modelo de caixas no CSS
++ [exercício 21 - caixa02](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex021/caixa02.html) - grouping tags no CSS
++ [exercício 21 - caixa03](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex021/caixa03.html) - bordas personalizadas no CSS
 
 #### Desafios
-+ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
-+ [desafio 11](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d11) - astronauta 
++ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exerc%C3%ADcios/m%C3%B3dulo%202/desafios/d10/principal.html
++ [desafio 11](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d11) - astronauta 
 
 
 ### Módulo 3
