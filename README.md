@@ -42,7 +42,7 @@ CSS
 + [exercício 21 - caixa03](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/ex021/caixa03.html) - bordas personalizadas no CSS
 
 #### Desafios
-+ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d10) - criando um site (android) - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo2/desafios/d10/principal.html
++ [desafio 10](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d10) - projeto android - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo2/desafios/d10/principal.html
 + [desafio 11](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo2/desafios/d11) - astronauta 
 
 
@@ -62,7 +62,7 @@ CSS
 + [exercício 23 - tabela06](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/ex023/tabela06.html) - tabelas responsivas
 
 #### Desafios
-+ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d12) - criando um site (cordel moderno) - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d12/principal.html
++ [desafio 12](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d12) - projeto cordel moderno - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d12/principal.html
 + [desafio 13 - table 1](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d13/table.html) - tabelas desafio - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d13/table.html
 + [desafio 13 - table 2](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo3/desafios/d13/table2.html) - quadro de notas - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo3/desafios/d13/table2.html
 
@@ -76,3 +76,4 @@ CSS
 + [exercício 24 - iframe006](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/ex024/iframe006.html) - usos interessantes com iframe (google maps, docs, waze, vídeos...)
 
 #### Desafios
++ [desafio 14](https://github.com/lal4mp/cev-HTML-CSS/tree/main/exercicios/modulo4/desafios/d14) - projetos redes sociais - https://lal4mp.github.io/cev-HTML-CSS/exercicios/modulo4/desafios/d14/index.html
